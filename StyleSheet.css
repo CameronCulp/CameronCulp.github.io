@@ -1,0 +1,51 @@
+
+        p{color: rgb(255,244,65);} 
+        h1{color: rgb(255,255,255);} 
+        h2{color: rgb(255,255,255);} 
+        
+        * {
+        		box-sizing: border-box;
+        	}
+        	
+        	.row {
+        		content: "";
+        		display: table;
+        		clear: both;
+    		}
+    		
+    		.columnLeft{
+    			float: left;
+    			width: 25%;
+    			padding: 20px;
+    		}
+    		
+    		.columnRight{
+    			float: right;
+    			width: 75%;
+    			padding: 20px;
+    		}
+        body {background-color: rgb(0,78,255);} 
+        h1{color: rgb(255,255,255);} 
+        p{color: rgb(255,244,65);} 
+        
+         font-family: 'fantasy';
+        
+ul.nav {
+	background-color:  green;
+	margin: 0;
+	padding: 0;
+	width: 200px; }
+	
+		
+li a {
+	float: left;
+	display: block;
+	color: pink;
+	padding: 8px 16px; 
+	text-align: left; }
+	
+	
+li a:hover {
+	background-color: purple;
+	color: white;}
+	
